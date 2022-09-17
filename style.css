@@ -36,3 +36,23 @@ th {
     background-color: darkcyan;
     color: #ffffff;
 }
+li {
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aquamarine;
+}
+li a {
+    display: block;
+    color: darkgoldenrod;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: cadetblue;
+}
